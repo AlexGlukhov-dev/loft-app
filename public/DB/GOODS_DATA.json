@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Блоки занятий",
+    "remains": 10,
+    "amount": 1,
+    "price": 100,
+    "sum": 0
+  },
+  {
+    "id": "2",
+    "title": "Абонемент на физкульт.-оздоровит. услуги",
+    "remains": 20,
+    "amount": 1,
+    "price": 200,
+    "sum": 0
+  },
+  {
+  "id": "3",
+  "title": "Блоки занятий-2",
+  "remains": 10,
+  "amount": 1,
+  "price": 100,
+  "sum": 0
+},
+  {
+    "id": "4",
+    "title": "Блоки занятий-3",
+    "remains": 10,
+    "amount": 1,
+    "price": 100,
+    "sum": 0
+  },
+  {
+    "id": "5",
+    "title": "Блоки занятий-4",
+    "remains": 10,
+    "amount": 1,
+    "price": 100,
+    "sum": 0
+  },
+  {
+    "id": "6",
+    "title": "Блоки занятий-5",
+    "remains": 10,
+    "amount": 1,
+    "price": 100,
+    "sum": 0
+  },
+  {
+    "id": "7",
+    "title": "Блоки занятий-6",
+    "remains": 10,
+    "amount": 1,
+    "price": 100,
+    "sum": 0
+  },
+  {
+    "id": "8",
+    "title": "Блоки занятий-7",
+    "remains": 10,
+    "amount": 1,
+    "price": 100,
+    "sum": 0
+  }
+]

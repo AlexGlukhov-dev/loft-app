@@ -1,0 +1,10 @@
+{
+  "user": {
+  "_id": "123",
+    "first_name": "Антон",
+    "last_name": "Антон",
+    "photo_bitrix": ""
+  },
+  "token": "010101010",
+  "isAuth": true
+}

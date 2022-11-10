@@ -1,0 +1,6 @@
+{
+  "id": 12345678,
+  "isAuth":false,
+  "incorrectData": true,
+  "token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.\neyJzdWIiOiIxMjM0NSIsIm5hbWUiOiJKb2huIEdvbGQiLCJhZG1pbiI6dHJ1ZX0K.\nLIHjWCBORSWMEibq-tnT8ue_deUqZx1K0XxCOXZRrBI"
+}
